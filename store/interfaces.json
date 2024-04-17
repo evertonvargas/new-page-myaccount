@@ -1,0 +1,14 @@
+{
+  "my-account-page.app-page": {
+    "component": "MyAppPage"
+  },
+  "my-account-link.app-link": {
+    "component": "MyAppLink"
+  },
+  "my-account-page.user-page": {
+    "component": "MyUserPage"
+  },
+  "my-account-link.user-link": {
+    "component": "MyUserLink"
+  }
+}

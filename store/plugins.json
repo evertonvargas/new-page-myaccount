@@ -1,0 +1,10 @@
+{
+  "my-account-pages > my-account-page": [
+    "my-account-page.app-page",
+    "my-account-page.user-page"
+  ],
+  "my-account-menu > my-account-link": [
+    "my-account-link.app-link",
+    "my-account-link.user-link"
+  ]
+}

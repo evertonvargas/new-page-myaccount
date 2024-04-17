@@ -1,0 +1,21 @@
+{
+  "name": "my-account-extension-example-typescript",
+  "vendor": "squadgrow",
+  "version": "0.0.0",
+  "title": "My Account Extension Example",
+  "description": "",
+  "mustUpdateAt": "2019-07-09",
+  "dependencies": {
+    "vtex.my-account": "1.x",
+    "vtex.styleguide": "9.x",
+    "vtex.my-account-commons": "1.x"
+  },
+  "builders": {
+    "react": "3.x",
+    "store": "0.x"
+  },
+  "scripts": {
+    "postreleasy": "vtex publish --verbose"
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}

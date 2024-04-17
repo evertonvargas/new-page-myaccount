@@ -1,0 +1,16 @@
+{
+  "name": "my-account-plugin",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-intl": "^2.4.0",
+    "react-router-dom": "^4.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.8",
+    "@types/react": "^16.9.31",
+    "typescript": "3.9.7",
+    "@vtex/tsconfig": "^0.4.4",
+    "eslint": "5.x",
+    "eslint-config-vtex-react": "^5.0.1"
+  }
+}
