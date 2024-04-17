@@ -1,6 +1,6 @@
 {
-  "name": "my-account-extension-example-typescript",
-  "vendor": "squadgrow",
+  "name": "my-account-new-page",
+  "vendor": "vtex",
   "version": "0.0.0",
   "title": "My Account Extension Example",
   "description": "",
