@@ -6,5 +6,6 @@
   "my-account-menu > my-account-link": [
     "my-account-link.app-link",
     "my-account-link.user-link"
-  ]
+  ],
+  "my-orders": "my-orders-page"
 }

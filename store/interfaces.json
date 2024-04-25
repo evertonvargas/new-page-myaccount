@@ -10,5 +10,8 @@
   },
   "my-account-link.user-link": {
     "component": "MyUserLink"
+  },
+  "my-orders-page": {
+    "component": "OrdersPage"
   }
 }
