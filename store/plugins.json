@@ -1,11 +1,12 @@
 {
   "my-account-pages > my-account-page": [
-    "my-account-page.app-page",
-    "my-account-page.user-page"
+    "my-account-page.app-page"
   ],
   "my-account-menu > my-account-link": [
-    "my-account-link.app-link",
-    "my-account-link.user-link"
+    "my-account-link.app-link"
   ],
-  "my-orders": "my-orders-page"
+  "my-orders": "my-orders.squadgrow",
+  "my-orders-link": "my-orders-link.squadgrow",
+  "my-orders-extra-actions-container": "my-orders-extra-actions-container.squadgrow",
+  "my-orders-extra-actions": "my-orders-extra-actions.squadgrow"
 }

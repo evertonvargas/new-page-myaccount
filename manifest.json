@@ -1,7 +1,7 @@
 {
   "name": "my-account-new-page",
   "vendor": "squadgrow",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "title": "My Account Extension Example",
   "description": "",
   "mustUpdateAt": "2019-07-09",
@@ -9,7 +9,8 @@
     "vtex.my-account": "1.x",
     "vtex.styleguide": "9.x",
     "vtex.my-account-commons": "1.x",
-    "vtex.my-orders-app": "3.x"
+    "vtex.my-orders-app": "3.x",
+    "vtex.order-manager": "0.x"
   },
   "builders": {
     "react": "3.x",

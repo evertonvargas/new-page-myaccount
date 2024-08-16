@@ -5,13 +5,22 @@
   "my-account-link.app-link": {
     "component": "MyAppLink"
   },
-  "my-account-page.user-page": {
-    "component": "MyUserPage"
+  "my-orders.squadgrow": {
+    "component": "MyOrdersPage",
+    "required": [
+      "my-orders-extra-actions-container.squadgrow"
+    ]
   },
-  "my-account-link.user-link": {
-    "component": "MyUserLink"
+  "my-orders-link.squadgrow": {
+    "component": "MyOrdersLink"
   },
-  "my-orders-page": {
-    "component": "OrdersPage"
+  "my-orders-extra-actions-container.squadgrow": {
+    "allowed": [
+      "my-orders-extra-actions.squadgrow"
+    ]
+  },
+  "my-orders-extra-actions.squadgrow": {
+    "component": "*",
+    "extensibility": "public"
   }
 }
