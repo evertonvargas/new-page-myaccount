@@ -5,8 +5,8 @@ import constants from './constants';
 const MyOrdersLink: FC<LinkProps> = ({ render }) => {
   return render([
     {
-      name: constants['label-order'],
-      path: constants['path-order'],
+      name: constants['label-orders'],
+      path: constants['path-orders'],
     },
   ]);
 };

@@ -2,7 +2,7 @@ import React from 'react'
 import { Route } from 'vtex.my-account-commons/Router'
 
 import constants from './constants'
-import { AppPage } from './components/AppPage'
+import { AppPage } from './pages/AppPage'
 
 const MyAppPage = () => (
   <>
