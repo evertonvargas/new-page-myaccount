@@ -8,7 +8,8 @@
   "my-orders.squadgrow": {
     "component": "MyOrdersPage",
     "required": [
-      "my-orders-extra-actions-container.squadgrow"
+      "my-orders-extra-actions-container.squadgrow",
+      "my-orders-packages-container.squadgrow"
     ]
   },
   "my-orders-link.squadgrow": {
@@ -22,5 +23,10 @@
   "my-orders-extra-actions.squadgrow": {
     "component": "*",
     "extensibility": "public"
+  },
+  "my-orders-packages-container.squadgrow": {
+    "allowed": [
+      "my-orders-packages"
+    ]
   }
 }
